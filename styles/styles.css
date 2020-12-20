@@ -1,0 +1,13 @@
+:root{
+    --mon-bold:'Montserrat-bold';
+    --mon-exrtabold:'Montserrat-extrabold';
+    --mon-regular:'Montserrat-regular';
+    --mon-semibold:'Montserrat-semibold';
+    --lato-regular:'Lato-regular';
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
